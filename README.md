@@ -1,3 +1,4 @@
-# marathon-js-frontend-vladilenminin
+# marathon-js-frontend
 
-- Создан репозиторий `01-cards`.
+- The `01-cards` repository has been created.
+- Vanila JS
